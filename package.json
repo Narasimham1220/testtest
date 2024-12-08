@@ -1,0 +1,12 @@
+
+{
+  "name": "bolt-new-combined-project",
+  "version": "1.0.0",
+  "description": "Unified project template for Bolt.New",
+  "main": "server.js",
+  "scripts": {
+    "start-backend": "cd backend && node server.js",
+    "start-frontend": "cd frontend && npm start"
+  },
+  "dependencies": {}
+}
